@@ -2,7 +2,7 @@
 Welcome to my GitHub profile. 
 I'm Marvin, a 24 years old developer from Germany and currently working as a software developer for a german IT company that developes an own transport management software (TMS).
 
-## Tech Stack:
+## 💻 Tech Stack:
 ### Main:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
@@ -12,7 +12,7 @@ I'm Marvin, a 24 years old developer from Germany and currently working as a sof
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-## OS Knowledge:
+##  OS Knowledge:
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
