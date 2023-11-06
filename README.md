@@ -28,5 +28,8 @@ I'm Marvin, a 25 years old developer from Germany and currently working as a sof
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=secodity&theme=dracula)
 
+## 👨‍💻 Projects
+[![Wipedir - A directory search and remove tool in C#](https://github-readme-stats.vercel.app/api/pin/?username=secodity&repo=wipedir)](https://github.com/secodity/wipedir)
+
 ![MADEWITHMARKDOWN](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
 ![LastCommit](https://img.shields.io/github/last-commit/secodity/secodity.svg)
