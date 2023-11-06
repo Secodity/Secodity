@@ -26,7 +26,7 @@ I'm Marvin, a 25 years old developer from Germany and currently working as a sof
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=secodity&theme=blue-green)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=secodity&theme=blue-green)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=secodity&theme=dracula)
 
 ![MADEWITHMARKDOWN](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
 ![LastCommit](https://img.shields.io/github/last-commit/secodity/secodity.svg)
